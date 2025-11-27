@@ -1,0 +1,3 @@
+[submodule "6dof-manipulation"]
+	path = 6dof-manipulation
+	url = git@github.com:skyview11/6dof-manipulation.git
