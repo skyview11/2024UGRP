@@ -1,3 +1,6 @@
 [submodule "6dof-manipulation"]
 	path = 6dof-manipulation
 	url = git@github.com:skyview11/6dof-manipulation.git
+[submodule "2024UGRP_modified_gsam"]
+	path = 2024UGRP_modified_gsam
+	url = git@github.com:skyview11/2024UGRP_modified_gsam.git
